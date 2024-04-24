@@ -17,5 +17,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/fine-tune-your-llms
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQF0MLdF_FIUYA/learning-public-crop_675_1200/0/1713457113185?e=2147483647&v=beta&t=IpkF9Vum8X3Qy3rc0CSfVBWz9U-Whzxma7RRH3DDIi8
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFv2yUrM_5NWg/learning-public-crop_675_1200/0/1713973823910?e=2147483647&v=beta&t=uPX2o9PkWNRJBfezwmzLmevfSIyi3YtsTJY_W6iLEP8
 
